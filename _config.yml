@@ -20,9 +20,9 @@ source-code: https://github.com/aasnide/collection565
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Collection565Test
+title: Collection of Broadway Playbills
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Test
+tagline: The Musicals
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
